@@ -1,0 +1,14 @@
+D:\Programs\С#\Lab8\Lab8\bin\Debug\net8.0\Lab8.exe
+D:\Programs\С#\Lab8\Lab8\bin\Debug\net8.0\Lab8.deps.json
+D:\Programs\С#\Lab8\Lab8\bin\Debug\net8.0\Lab8.runtimeconfig.json
+D:\Programs\С#\Lab8\Lab8\bin\Debug\net8.0\Lab8.dll
+D:\Programs\С#\Lab8\Lab8\bin\Debug\net8.0\Lab8.pdb
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfoInputs.cache
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfo.cs
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.csproj.CoreCompileInputs.cache
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.dll
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\refint\Lab8.dll
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.pdb
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\Lab8.genruntimeconfig.cache
+D:\Programs\С#\Lab8\Lab8\obj\Debug\net8.0\ref\Lab8.dll

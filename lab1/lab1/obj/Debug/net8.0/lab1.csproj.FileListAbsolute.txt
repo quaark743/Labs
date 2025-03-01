@@ -1,0 +1,17 @@
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\lab1.exe
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\lab1.dll
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.dll
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
+D:\Programs\С#\lab1\lab1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.csproj.AssemblyReference.cache
+D:\Programs\С#\lab1\lab1\obj\Debug\net8.0\lab1.csproj.Up2Date
