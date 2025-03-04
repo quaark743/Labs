@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\С#\\lab1\\lab1\\lab1.csproj": {}
+    "D:\\git_repos\\lab1\\lab1\\lab1.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\С#\\lab1\\lab1\\lab1.csproj": {
+    "D:\\git_repos\\lab1\\lab1\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\С#\\lab1\\lab1\\lab1.csproj",
+        "projectUniqueName": "D:\\git_repos\\lab1\\lab1\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "D:\\Programs\\С#\\lab1\\lab1\\lab1.csproj",
+        "projectPath": "D:\\git_repos\\lab1\\lab1\\lab1.csproj",
         "packagesPath": "C:\\Users\\onovi\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\С#\\lab1\\lab1\\obj\\",
+        "outputPath": "D:\\git_repos\\lab1\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\onovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
