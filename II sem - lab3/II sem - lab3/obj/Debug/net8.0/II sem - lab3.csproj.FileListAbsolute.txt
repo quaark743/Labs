@@ -1,0 +1,18 @@
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\II sem - lab3.exe
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\II sem - lab3.deps.json
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\II sem - lab3.runtimeconfig.json
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\II sem - lab3.dll
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\II sem - lab3.pdb
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.AssemblyInfoInputs.cache
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.AssemblyInfo.cs
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.csproj.CoreCompileInputs.cache
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.sourcelink.json
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.dll
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\refint\II sem - lab3.dll
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.pdb
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.genruntimeconfig.cache
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\ref\II sem - lab3.dll
+D:\git_repos\II sem - lab3\II sem - lab3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem - lab3.csproj.AssemblyReference.cache
+D:\git_repos\II sem - lab3\II sem - lab3\obj\Debug\net8.0\II sem -.B8CC18B4.Up2Date

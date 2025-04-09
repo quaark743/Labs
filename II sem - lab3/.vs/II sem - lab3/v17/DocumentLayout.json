@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git_repos\\II sem - lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|d:\\git_repos\\ii sem - lab3\\ii sem - lab3\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|solutionrelative:ii sem - lab3\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|d:\\git_repos\\ii sem - lab3\\ii sem - lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|solutionrelative:ii sem - lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|d:\\git_repos\\ii sem - lab3\\ii sem - lab3\\monomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145935D5-A3E4-4961-A7C0-913F5A63293C}|II sem - lab3\\II sem - lab3.csproj|solutionrelative:ii sem - lab3\\monomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:II sem - lab3\\bin\\Debug\\net8.0\\poly1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:II sem - lab3\\bin\\Debug\\net8.0\\poly2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monomial.cs",
+              "DocumentMoniker": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Monomial.cs",
+              "RelativeDocumentMoniker": "II sem - lab3\\Monomial.cs",
+              "ToolTip": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Monomial.cs",
+              "RelativeToolTip": "II sem - lab3\\Monomial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:14:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Program.cs",
+              "RelativeDocumentMoniker": "II sem - lab3\\Program.cs",
+              "ToolTip": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Program.cs",
+              "RelativeToolTip": "II sem - lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:00:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "poly1.json",
+              "DocumentMoniker": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly1.json",
+              "RelativeDocumentMoniker": "II sem - lab3\\bin\\Debug\\net8.0\\poly1.json",
+              "ToolTip": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly1.json",
+              "RelativeToolTip": "II sem - lab3\\bin\\Debug\\net8.0\\poly1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T13:43:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "poly2.json",
+              "DocumentMoniker": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly2.json",
+              "RelativeDocumentMoniker": "II sem - lab3\\bin\\Debug\\net8.0\\poly2.json",
+              "ToolTip": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\bin\\Debug\\net8.0\\poly2.json",
+              "RelativeToolTip": "II sem - lab3\\bin\\Debug\\net8.0\\poly2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T13:43:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.cs",
+              "DocumentMoniker": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Polynomial.cs",
+              "RelativeDocumentMoniker": "II sem - lab3\\Polynomial.cs",
+              "ToolTip": "D:\\git_repos\\II sem - lab3\\II sem - lab3\\Polynomial.cs",
+              "RelativeToolTip": "II sem - lab3\\Polynomial.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:01:44.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

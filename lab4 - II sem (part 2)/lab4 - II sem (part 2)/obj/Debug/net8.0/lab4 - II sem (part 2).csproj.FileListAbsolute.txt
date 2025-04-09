@@ -1,0 +1,15 @@
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\bin\Debug\net8.0\lab4 - II sem (part 2).exe
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\bin\Debug\net8.0\lab4 - II sem (part 2).deps.json
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\bin\Debug\net8.0\lab4 - II sem (part 2).runtimeconfig.json
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\bin\Debug\net8.0\lab4 - II sem (part 2).dll
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\bin\Debug\net8.0\lab4 - II sem (part 2).pdb
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).AssemblyInfoInputs.cache
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).AssemblyInfo.cs
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).csproj.CoreCompileInputs.cache
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).sourcelink.json
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).dll
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\refint\lab4 - II sem (part 2).dll
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).pdb
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\lab4 - II sem (part 2).genruntimeconfig.cache
+D:\git_repos\lab4 - II sem (part 2)\lab4 - II sem (part 2)\obj\Debug\net8.0\ref\lab4 - II sem (part 2).dll

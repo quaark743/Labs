@@ -1,0 +1,12 @@
+{
+  "Polynom": [
+    {
+      "Coefficient": 1.0,
+      "Degree": 2
+    },
+    {
+      "Coefficient": 1.0,
+      "Degree": 1
+    }
+  ]
+}
