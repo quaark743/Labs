@@ -1,0 +1,15 @@
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\bin\Debug\net8.0\Lab5 - II sem.exe
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\bin\Debug\net8.0\Lab5 - II sem.deps.json
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\bin\Debug\net8.0\Lab5 - II sem.runtimeconfig.json
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\bin\Debug\net8.0\Lab5 - II sem.dll
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\bin\Debug\net8.0\Lab5 - II sem.pdb
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.AssemblyInfoInputs.cache
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.AssemblyInfo.cs
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.csproj.CoreCompileInputs.cache
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.sourcelink.json
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.dll
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\refint\Lab5 - II sem.dll
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.pdb
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\Lab5 - II sem.genruntimeconfig.cache
+D:\git_repos\Lab5 - II sem\Lab5 - II sem\obj\Debug\net8.0\ref\Lab5 - II sem.dll

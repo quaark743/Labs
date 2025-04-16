@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git_repos\\Lab5 - II sem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\quadrilateral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\quadrilateral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\rombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\rombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|d:\\git_repos\\lab5 - ii sem\\lab5 - ii sem\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B588DF-8817-45D8-8617-99619F3F730D}|Lab5 - II sem\\Lab5 - II sem.csproj|solutionrelative:lab5 - ii sem\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parallelogram.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Parallelogram.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Parallelogram.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Parallelogram.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Parallelogram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:52:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rombus.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Rombus.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Rombus.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Rombus.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Rombus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:52:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Square.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Square.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Square.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:52:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quadrilateral.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Quadrilateral.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Quadrilateral.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Quadrilateral.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Quadrilateral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:51:52.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Circle.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Circle.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:51:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Segment.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Segment.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Segment.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Segment.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Segment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:51:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeometricFigure.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\GeometricFigure.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\GeometricFigure.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\GeometricFigure.cs",
+              "RelativeToolTip": "Lab5 - II sem\\GeometricFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:45:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5 - II sem\\Program.cs",
+              "ToolTip": "D:\\git_repos\\Lab5 - II sem\\Lab5 - II sem\\Program.cs",
+              "RelativeToolTip": "Lab5 - II sem\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:44:10.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
